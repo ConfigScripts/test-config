@@ -1,4 +1,4 @@
-test-config
-===========
-
-this is the test repo
+echo "test"
+echo "1"
+echo "2"
+echo "3"
